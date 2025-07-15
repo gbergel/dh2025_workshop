@@ -52,10 +52,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/gbergel/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715141136069",
+	"id": "https://raw.githubusercontent.com/gbergel/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715142315377",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-15T13:11:36.069Z",
-	"dcterms:modified": "2025-07-15T13:11:36.069Z",
+	"dcterms:created": "2025-07-15T13:23:15.377Z",
+	"dcterms:modified": "2025-07-15T13:23:15.377Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/gbergel",
 		"@type": [
@@ -66,7 +66,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/gbergel/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715141136069#Target",
+		"@id": "https://raw.githubusercontent.com/gbergel/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715142315377#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/gbergel/dh2025_workshop/main/inferno_files/Inferno_english.xml",
@@ -80,14 +80,14 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/gbergel/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715141136069#Selector",
+			"@id": "https://raw.githubusercontent.com/gbergel/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715142315377#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/byline/persName"
+			"rdf:value": "TEI/text/body/div/lg[5]/l[2]/persName"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/97105654",
+		"@id": "http://viaf.org/viaf/8194433",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -118,7 +118,7 @@
          <div type="canto">
             <pb facs="https://upload.wikimedia.org/wikipedia/commons/3/38/Inferno_Canto_4_four_bards.jpg"/>
             <head>The Inferno: Canto IV</head>
-            <byline><persName key="Dante Alighieri, 1265-1321." ref="http://viaf.org/viaf/97105654" cert="high" role="aut" type="real">Dante Alighieri</persName></byline>
+            <byline>Dante Alighieri</byline>
             <lg n="1" xml:id="lg001">
                <l n="1">Broke the deep lethargy within my head</l>
                <l n="2">A heavy thunder, so that I upstarted,</l>
@@ -145,7 +145,7 @@
 
             <lg n="5" xml:id="lg005">
                <l n="13">“Let us descend now into the blind world,”</l>
-               <l n="14">Began the Poet, pallid utterly;</l>
+               <l n="14">Began <persName key="Virgil." ref="http://viaf.org/viaf/8194433" cert="high" type="real" xml:id="virg01">the Poet</persName>, pallid utterly;</l>
                <l n="15">“I will be first, and thou shalt second be.”</l>
             </lg>
 
