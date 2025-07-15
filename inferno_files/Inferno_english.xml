@@ -314,7 +314,7 @@
             <lg n="33" xml:id="lg033">
                <l n="97">When they together had discoursed somewhat,</l>
                <l n="98">They turned to me with signs of salutation,</l>
-               <l n="99">And on beholding this, my Master smiled;</l>
+               <l n="99">And on beholding this, <persName cert="high" type="identifiable" xml:id="virg01">my Master</persName> smiled;</l>
             </lg>
 
             <lg n="34" xml:id="lg034">
@@ -360,7 +360,7 @@
             </lg>
 
             <lg n="41" xml:id="lg041">
-               <l n="121">I saw Electra with companions many,</l>
+               <l n="121">I saw <persName type="fictional" xml:id="Electra01">Electra</persName> with companions many,</l>
                <l n="122">’Mongst whom I knew both Hector and Aeneas,</l>
                <l n="123">Caesar in armour with gerfalcon eyes;</l>
             </lg>
