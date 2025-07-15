@@ -236,7 +236,7 @@
             <lg n="20" xml:id="lg020">
                <l n="58"><persName type="identifiable" xml:id="Abraham01">Abraham</persName>, patriarch, and <persName cert="high" xml:id="David01">David,</persName> king,</l>
                <l n="59"><persName type="identifiable" xml:id="Israel01">Israel</persName> with his father and his children,</l>
-               <l n="60">And Rachel, for whose sake he did so much,</l>
+               <l n="60">And <persName cert="high" xml:id="Rachel01">Rachel</persName>, for whose sake he did so much,</l>
             </lg>
 
             <lg n="21" xml:id="lg021">
